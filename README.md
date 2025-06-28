@@ -1,14 +1,13 @@
-<h1 align="center">
+<h1>
     EduWave
 </h1>
 
-<h4 align="center">
+<h4>
 Streamline school management, class organization, and add students and faculty.
 Seamlessly track attendance, assess performance, and provide feedback.
 Access records, view marks, and communicate effortlessly.
 </h4>
 
-<br>
 
 # About
 
@@ -39,7 +38,7 @@ EduWave is a web-based application built using the MERN (MongoDB, Express.js, Re
 # Installation
 
 ```sh
-git clone repo
+git clone https://github.com/amareshwar3/EduWave.git
 ```
 Open 2 terminals in separate windows/tabs.
 
